@@ -1,0 +1,238 @@
+#first {
+  background-color: #eeeeee;
+}
+
+h1 {
+  font-family: "Questrial";
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+
+}
+
+h3 {
+  font-family: "Questrial";
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 3px;
+  margin-bottom: 30px;
+
+}
+
+h4 {
+  font-family: "Questrial";
+  font-weight: 800;
+  text-align: left;
+  padding: 1%;
+}
+
+
+h5 {
+  font-family: "Questrial";
+  font-weight: 600;
+  padding-top: 1%;
+}
+
+.navbar {
+  font-family: "Questrial";
+  font-weight: 500;
+}
+
+.navbar-nav {
+  margin: 0 auto;
+  padding-left: 30%;
+}
+
+
+
+.navbar-brand {
+  font-weight: 900;
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+  margin: 0 10px;
+}
+
+.brand-icon {
+  color: #fff;
+}
+
+.nav-item {
+  padding: 1% 7%;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+
+}
+
+.nav-link:hover {
+  border: 3px;
+  border-style: solid;
+  border-color: #fff;
+  border-radius: 10px;
+}
+
+.signature-image {
+position:relative;
+left: 130px;
+}
+
+.aboutme-button {
+  font-family: "Questrial";
+font-weight: bold;
+padding: 1% 3%;
+margin-right: 82%;
+letter-spacing: 3px;
+}
+
+
+
+.sapizoltan-square {
+  border-radius: 5%;
+margin: 13% 0 0 10%;
+
+
+}
+
+.welcome-text {
+text-align: center;
+  padding: 4% 0;
+}
+
+.name-text {
+  letter-spacing: 5px;
+  font-weight: 900;
+  font-size: 4rem;
+  text-align: left;
+  margin: 3% 0 1% 0;
+}
+
+.name-text-description {
+  text-align: left;
+}
+
+
+
+.first-line {
+  text-align: center;
+  border: 2px;
+  width: 90%;
+  margin: 4% 0;
+}
+
+.contacts-top {
+  margin: 3% 0 5% 0;
+}
+
+.contacts-icon {
+  text-align: center;
+padding: 3%;
+}
+
+.contacts-icon:hover {
+  color: #0d7377;
+}
+
+.contacts-col {
+  font-family: "Questrial";
+  font-size: 1.1rem;
+  color: black;
+}
+
+.contacts-col:hover {
+  color:#0d7377;
+}
+
+.linkedin-link {
+  color: black;
+  text-decoration: none;
+}
+
+.linkedin-link:hover {
+  color: #0d7377;
+  text-decoration: none;
+}
+
+.about-text {
+  text-align: justify;
+  font-size: 1.4rem;
+  line-height: 2;
+  margin-right: 80px;
+  letter-spacing: 3px;
+  font-weight: lighter;
+  color: #363B47;
+
+}
+
+.button-box-1 {
+  margin-bottom: 3%;
+}
+
+#second-section {
+
+  background-color: #eeeeee;
+
+  /* background-color: #32e0c4; */
+}
+
+.second-line {
+  text-align: center;
+margin: 1% auto;
+
+
+  width: 85%;
+}
+
+.second-section-title{
+
+  padding: 2%;
+}
+
+.education-button {
+  font-family: "Questrial";
+font-weight: bold;
+padding: 0.5% 3%;
+margin-right: 84%;
+letter-spacing: 3px;
+}
+
+
+
+#third-section {
+  background-color: #eeeeee;
+  margin: 0 auto;
+  padding: 3% 15%;
+  text-align: justify;
+
+}
+
+.experience-button {
+  font-family: "Questrial";
+font-weight: bold;
+padding: 0.5% 3%;
+margin-right: 84%;
+letter-spacing: 3px;
+}
+
+.experience-icons {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.work-text {
+  line-height: 1.5;
+}
+
+#fourth-section {
+  background-color: #212121;
+}
+
+.skills-button {
+  font-family: "Questrial";
+font-weight: bold;
+padding: 0.5% 3%;
+margin-right: 84%;
+letter-spacing: 3px;
+}
